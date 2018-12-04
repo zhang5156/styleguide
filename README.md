@@ -1,3 +1,18 @@
+代码规范指南
+==========
+
+【说明】本指南基于 [google/styleguide](https://github.com/google/styleguide)，参考了 [twitter styleguide](https://github.com/twitter/commons/blob/master/src/java/com/twitter/common/styleguide.md) 和 [阿里巴巴Java开发手册](https://github.com/alibaba/p3c)。
+
+相比于 [google/styleguide](https://github.com/google/styleguide)，有如下不同点
+- 通用编程语言缩进4个空格。脚本、标记语言、数据格式等缩进2个空格。（Google是所有都缩进2个空格。）
+
+通用编程语言，缩进4个空格：
+- Java
+- Python
+- C++
+- Objective-C
+- R
+
 Google Style Guides
 ===================
 
